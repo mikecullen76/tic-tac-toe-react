@@ -1,6 +1,4 @@
-This a tic-tac-toe game using react, that I made to learn more about react.
-
-
+A tic-tac-toe game written using react. I made it to help me learn more about react.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,4 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# tic-tac-toe-react
