@@ -1,3 +1,5 @@
+A tic-tac-toe game written using react. I made it to help me learn more about react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
